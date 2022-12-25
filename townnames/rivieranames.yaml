@@ -240,6 +240,6 @@ mainset:
     probability: 1
   - name: Monaco
     probability: 1
-name: Riviera names
+name: rivieranames
 source: null
 subsets: []
