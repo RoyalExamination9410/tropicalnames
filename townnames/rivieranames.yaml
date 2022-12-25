@@ -6,13 +6,13 @@ mainset:
     probability: 1
   - name: Monaco-Ville
     probability: 1
-  - name: "Ravin de Sainte-Dévote\t"
+  - name: Ravin de Sainte-Dévote
     probability: 1
   - name: Le Portier 2
     probability: 1
   - name: La Condamine
     probability: 1
-  - name: 'Fontvieille '
+  - name: Fontvieille
     probability: 1
   - name: Ravin de Sainte-Dévote
     probability: 1
@@ -54,7 +54,7 @@ mainset:
     probability: 1
   - name: Les Adrets-de-l'Estérel
     probability: 1
-  - name: 'Tanneron '
+  - name: Tanneron
     probability: 1
   - name: Théoule-sur-Mer
     probability: 1
@@ -64,7 +64,7 @@ mainset:
     probability: 1
   - name: Vallauris
     probability: 1
-  - name: 'Valbonne '
+  - name: Valbonne
     probability: 1
   - name: Sophia-Antipolis
     probability: 1
@@ -74,7 +74,7 @@ mainset:
     probability: 1
   - name: Antibes
     probability: 1
-  - name: 'Biot '
+  - name: Biot
     probability: 1
   - name: Villeneuve-Loubet
     probability: 1
@@ -84,7 +84,7 @@ mainset:
     probability: 1
   - name: Belvédère
     probability: 1
-  - name: 'Nice '
+  - name: Nice
     probability: 1
   - name: Villefranche-sur-Mer
     probability: 1
@@ -92,55 +92,55 @@ mainset:
     probability: 1
   - name: Beaulieu-sur-Mer
     probability: 1
-  - name: 'Èze '
+  - name: Èze
     probability: 1
   - name: Cap d'Ail
     probability: 1
   - name: Ventimiglia
     probability: 1
-  - name: 'Camporosso '
+  - name: Camporosso
     probability: 1
   - name: Vallecrosia
     probability: 1
-  - name: 'Bordighera '
+  - name: Bordighera
     probability: 1
-  - name: 'Ospedaletti '
+  - name: Ospedaletti
     probability: 1
   - name: San Remo Taggia
     probability: 1
-  - name: 'Riva '
+  - name: Riva
     probability: 1
   - name: Ligure
     probability: 1
   - name: Santo Stefano al Mare
     probability: 1
-  - name: 'Cipressa '
+  - name: Cipressa
     probability: 1
-  - name: 'Costarainera '
+  - name: Costarainera
     probability: 1
-  - name: 'San Lorenzo al Mare '
+  - name: San Lorenzo al Mare
     probability: 1
   - name: Imperia
     probability: 1
   - name: Diano
     probability: 1
-  - name: 'Marina '
+  - name: Marina
     probability: 1
   - name: San Bartolomeo al Mare
     probability: 1
-  - name: 'Cervo '
+  - name: Cervo
     probability: 1
   - name: Andora
     probability: 1
   - name: Laigueglia
     probability: 1
-  - name: 'Alassio '
+  - name: Alassio
     probability: 1
-  - name: 'Albenga '
+  - name: Albenga
     probability: 1
-  - name: 'Ceriale '
+  - name: Ceriale
     probability: 1
-  - name: 'Borghetto '
+  - name: Borghetto
     probability: 1
   - name: Santo Spirito
     probability: 1
@@ -148,15 +148,15 @@ mainset:
     probability: 1
   - name: Pietra Ligure
     probability: 1
-  - name: 'Borgio Verezzi '
+  - name: Borgio Verezzi
     probability: 1
   - name: Finale Ligure
     probability: 1
-  - name: 'Noli '
+  - name: Noli
     probability: 1
-  - name: 'Spotorno '
+  - name: Spotorno
     probability: 1
-  - name: 'Bergeggi '
+  - name: Bergeggi
     probability: 1
   - name: Vado Ligure
     probability: 1
@@ -230,7 +230,7 @@ mainset:
     probability: 1
   - name: Isola Gallinara
     probability: 1
-  - name: 'Palmaria '
+  - name: Palmaria
     probability: 1
   - name: Tino
     probability: 1
