@@ -1,4 +1,4 @@
-available: true
+available: false
 id: 0
 mainset:
 - names:
@@ -24,7 +24,7 @@ mainset:
     probability: 1
   - name: La Rousse
     probability: 1
-  - name: Belvédère Nice Villefranche-sur-Mer Saint-Jean-Cap-Ferrat Beaulieu-sur-Mer Èze Cap d'Ail Beausoleil Roquebrune-Cap-Martin Menton
+  - name: Roquebrune-Cap-Martin
     probability: 1
   - name: Cassis
     probability: 1
@@ -82,6 +82,164 @@ mainset:
     probability: 1
   - name: Saint-Laurent-du-Var
     probability: 1
-name: 'New Townname #0'
+  - name: Belvédère
+    probability: 1
+  - name: 'Nice '
+    probability: 1
+  - name: Villefranche-sur-Mer
+    probability: 1
+  - name: Saint-Jean-Cap-Ferrat
+    probability: 1
+  - name: Beaulieu-sur-Mer
+    probability: 1
+  - name: 'Èze '
+    probability: 1
+  - name: Cap d'Ail
+    probability: 1
+  - name: Ventimiglia
+    probability: 1
+  - name: 'Camporosso '
+    probability: 1
+  - name: Vallecrosia
+    probability: 1
+  - name: 'Bordighera '
+    probability: 1
+  - name: 'Ospedaletti '
+    probability: 1
+  - name: San Remo Taggia
+    probability: 1
+  - name: 'Riva '
+    probability: 1
+  - name: Ligure
+    probability: 1
+  - name: Santo Stefano al Mare
+    probability: 1
+  - name: 'Cipressa '
+    probability: 1
+  - name: 'Costarainera '
+    probability: 1
+  - name: 'San Lorenzo al Mare '
+    probability: 1
+  - name: Imperia
+    probability: 1
+  - name: Diano
+    probability: 1
+  - name: 'Marina '
+    probability: 1
+  - name: San Bartolomeo al Mare
+    probability: 1
+  - name: 'Cervo '
+    probability: 1
+  - name: Andora
+    probability: 1
+  - name: Laigueglia
+    probability: 1
+  - name: 'Alassio '
+    probability: 1
+  - name: 'Albenga '
+    probability: 1
+  - name: 'Ceriale '
+    probability: 1
+  - name: 'Borghetto '
+    probability: 1
+  - name: Santo Spirito
+    probability: 1
+  - name: Loano
+    probability: 1
+  - name: Pietra Ligure
+    probability: 1
+  - name: 'Borgio Verezzi '
+    probability: 1
+  - name: Finale Ligure
+    probability: 1
+  - name: 'Noli '
+    probability: 1
+  - name: 'Spotorno '
+    probability: 1
+  - name: 'Bergeggi '
+    probability: 1
+  - name: Vado Ligure
+    probability: 1
+  - name: Savona
+    probability: 1
+  - name: Albissola Marina
+    probability: 1
+  - name: Albisola Superiore
+    probability: 1
+  - name: Celle Ligure
+    probability: 1
+  - name: Varazze
+    probability: 1
+  - name: Cogoleto
+    probability: 1
+  - name: Arenzano
+    probability: 1
+  - name: Genoa
+    probability: 1
+  - name: Bogliasco
+    probability: 1
+  - name: Pieve Ligure
+    probability: 1
+  - name: Sori
+    probability: 1
+  - name: Recco
+    probability: 1
+  - name: Camogli
+    probability: 1
+  - name: Santa Margherita Ligure
+    probability: 1
+  - name: Portofino
+    probability: 1
+  - name: Rapallo
+    probability: 1
+  - name: Zoagli
+    probability: 1
+  - name: Chiavari
+    probability: 1
+  - name: Lavagna
+    probability: 1
+  - name: Sestri Levante
+    probability: 1
+  - name: Moneglia
+    probability: 1
+  - name: Deiva Marina
+    probability: 1
+  - name: Framura
+    probability: 1
+  - name: Bonassola
+    probability: 1
+  - name: Monterosso al Mare
+    probability: 1
+  - name: Vernazza
+    probability: 1
+  - name: Riomaggiore
+    probability: 1
+  - name: Lerici
+    probability: 1
+  - name: La Spezia
+    probability: 1
+  - name: Portovenere
+    probability: 1
+  - name: Ameglia
+    probability: 1
+  - name: Sarzana
+    probability: 1
+  - name: Levanto
+    probability: 1
+  - name: Bergeggi
+    probability: 1
+  - name: Isola Gallinara
+    probability: 1
+  - name: 'Palmaria '
+    probability: 1
+  - name: Tino
+    probability: 1
+  - name: Tinetto
+    probability: 1
+  - name: Scola
+    probability: 1
+  - name: Monaco
+    probability: 1
+name: Riviera names
 source: null
 subsets: []
