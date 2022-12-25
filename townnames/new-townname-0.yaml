@@ -1,0 +1,87 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Monte Carlo
+    probability: 1
+  - name: Monaco-Ville
+    probability: 1
+  - name: "Ravin de Sainte-Dévote\t"
+    probability: 1
+  - name: Le Portier 2
+    probability: 1
+  - name: La Condamine
+    probability: 1
+  - name: 'Fontvieille '
+    probability: 1
+  - name: Ravin de Sainte-Dévote
+    probability: 1
+  - name: Jardin Exotique
+    probability: 1
+  - name: Larvotto
+    probability: 1
+  - name: Les Moneghetti
+    probability: 1
+  - name: La Rousse
+    probability: 1
+  - name: Belvédère Nice Villefranche-sur-Mer Saint-Jean-Cap-Ferrat Beaulieu-sur-Mer Èze Cap d'Ail Beausoleil Roquebrune-Cap-Martin Menton
+    probability: 1
+  - name: Cassis
+    probability: 1
+  - name: La Ciotat
+    probability: 1
+  - name: Bandol
+    probability: 1
+  - name: Sanary-sur-Mer
+    probability: 1
+  - name: Six-Fours-les-Plages
+    probability: 1
+  - name: La Seyne-sur-Mer
+    probability: 1
+  - name: Hyères
+    probability: 1
+  - name: Le Lavandou
+    probability: 1
+  - name: Cavalaire-sur-Mer
+    probability: 1
+  - name: Grimaud
+    probability: 1
+  - name: Saint-Tropez
+    probability: 1
+  - name: Saint-Raphaël
+    probability: 1
+  - name: Fayence
+    probability: 1
+  - name: Les Adrets-de-l'Estérel
+    probability: 1
+  - name: 'Tanneron '
+    probability: 1
+  - name: Théoule-sur-Mer
+    probability: 1
+  - name: Mandelieu-la-Napoule
+    probability: 1
+  - name: Cannes
+    probability: 1
+  - name: Vallauris
+    probability: 1
+  - name: 'Valbonne '
+    probability: 1
+  - name: Sophia-Antipolis
+    probability: 1
+  - name: Golfe-Juan
+    probability: 1
+  - name: Juan-les-Pins
+    probability: 1
+  - name: Antibes
+    probability: 1
+  - name: 'Biot '
+    probability: 1
+  - name: Villeneuve-Loubet
+    probability: 1
+  - name: Cagnes-sur-Mer
+    probability: 1
+  - name: Saint-Laurent-du-Var
+    probability: 1
+name: 'New Townname #0'
+source: ''
+subsets: []
